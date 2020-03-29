@@ -1,0 +1,79 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="imperiumeq.org" resolutions="1x" timestamp="1585455783465">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="server-files.css" crc="3951421302" ref="server-files"/>
+    <file name="index.css" crc="3866386754" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:server-files"/>
+    <file name="museutils.js" crc="3939489907" ref="index:server-files"/>
+    <file name="whatinput.js" crc="86476730" ref="index:server-files"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:server-files"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:server-files"/>
+    <file name="webpro.js" crc="3856315280" ref="index"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index"/>
+    <file name="require.js" crc="4177726516" ref="index:server-files"/>
+  </folder>
+  <folder name="images">
+    <file name="background.png" crc="433858913" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="eq_logo.png" crc="4214466860" seo="true" ref="index:server-files">
+      <caption webpage="index" alt=""/>
+      <caption webpage="server-files" alt=""/>
+    </file>
+    <file name="u134-4.png" crc="207731129" ref="index"/>
+    <file name="u162-4.png" crc="4017575534" ref="index"/>
+    <file name="u170-4.png" crc="3955941269" ref="index"/>
+    <file name="u179-4.png" crc="148705376" ref="index"/>
+    <file name="u188-4.png" crc="414444276" ref="index"/>
+    <file name="u195-5.png" crc="274453292" ref="index"/>
+    <file name="everquest_classic_cover-crop-u298.jpg" crc="3785445354" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="everquest_kunark_cover-crop-u419.jpg" crc="532374923" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="everquest_velious_cover-crop-u519.jpg" crc="355231994" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="everquest_luclin_cover-crop-u459.jpg" crc="3769828784" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="everquest_pop_cover-crop-u499.jpg" crc="237623326" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="everquest_ldon_cover-crop-u439.jpg" crc="4255457041" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="everquest_god_cover-crop-u399.jpg" crc="102005054" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="everquest_oow_cover.jpg" crc="3910397175" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u305-4.png" crc="91752417" ref="index"/>
+    <file name="u309-4.png" crc="3893309584" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="kunark_longwallpaper.png" crc="120480609" seo="true" ref="server-files">
+      <caption webpage="server-files" alt=""/>
+    </file>
+    <file name="u856-4.png" crc="207731129" ref="server-files"/>
+    <file name="properties.jpg" crc="4059830654" seo="true" ref="server-files">
+      <caption webpage="server-files" alt=""/>
+    </file>
+    <file name="server_selection.jpg" crc="4029717581" seo="true" ref="server-files">
+      <caption webpage="server-files" alt=""/>
+    </file>
+    <file name="u898-4.png" crc="21874156" ref="server-files"/>
+    <file name="u1012-4.png" crc="431789150" ref="server-files"/>
+    <file name="u1048-4.png" crc="3955941269" ref="server-files"/>
+    <file name="u1051-4.png" crc="148705376" ref="server-files"/>
+    <file name="u1053-4.png" crc="414444276" ref="server-files"/>
+  </folder>
+  <file name="index.html" crc="171174202" seo="true" mt="1585445106906" redirect="true"/>
+  <file name="server-files.html" crc="535398926" seo="true" mt="1585444918812" redirect="true"/>
+</manifest>
